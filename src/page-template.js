@@ -89,8 +89,6 @@ const generateEmail = emailText => {
   `;
 };
 
-
-
 module.exports = templateData => {
   // destructure page data by section
   const { projectname, description, installation, usage, credits, license, contribute, tests, github, email } = templateData;
@@ -128,5 +126,4 @@ module.exports = templateData => {
 
   ## Questions
   Please contact ${generateGithub(github)} at ${generateEmail(email)} regarding questions.
-
 `};

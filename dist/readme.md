@@ -2,7 +2,7 @@
   
 
   ## Description
-  generates readme
+  generates readme files
   
 
   ## Table of Contents
@@ -13,29 +13,28 @@
   - [License](#license)
 
   ## Installation
-  git bash is needed
+  git clone from repository
   
 
   ## Usage
-  type node index in git bash to begin generating a readme
+  can be used to generate readme files through git bash
   
 
   ## Credits
-  na
+  N/A
   
 
   ## License
   Community License
   
-
   - [https://choosealicense.com/]
 
   ## Contribute
-  dont
+  Contribution not needed
   
 
   ## Tests
-  this one right here
+  This itself is a test
   
 
   ## Questions
